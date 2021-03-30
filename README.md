@@ -33,6 +33,8 @@ Boske is governed by BoskeDAO that manages all funds generated through the LILA 
 
 Robosepus are rare crypto-collectibles living on the Ethereum blockchain, backed by the ERC-721 standard used in popular blockchain games such as CryptoKitties, Axie Infinity, and Cryptovoxels. Robosepus possess three attributes that determine their overall value and rarity within the Boske universe: collateral stake, traits, and wearables.
 
+Ex: https://github.com/BoskeDAO/BoskeNomics/blob/main/fff.png
+
 * Collateral stake: Each Robosepu ERC721 NFT manages an escrow contract address that holds an Aave-backed ERC20 collateral, or “aToken”. aTokens generate yield via Aave’s LendingPool, which increases the quantity of aTokens held in the wallet. Thus, the amount of aTokens held in the Robosepu’s escrow address grows over time.
 
 * Traits: Robosepus possess multiple traits that influence their rarity, their performance in mini-games, and the wearables they can equip. Some are generated randomly upon birth, and others depend on user interactions with the Robosepu. See Traits.

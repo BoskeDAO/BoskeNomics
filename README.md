@@ -1,4 +1,4 @@
-# BoskeNomics
+# Boske
 Boske Web3 Academia - CryptoEconomics of a gamified, social and open learning innitiative.
 
 Boske is *inspired by Aavegotchi* game mechanics.
@@ -18,7 +18,7 @@ focused on **web3 technology and economics** topics.
 <br> Linkedin: https://www.linkedin.com/company/boske3/
 <br> Meetup: https://www.meetup.com/es-ES/web3latam/
 
-## Introduction
+# Introduction
 
 Boske is a DeFi-enabled crypto collectibles web3 learning game developed by *Venten Labs* and *Argand Web3 Innovation for Latam* that allows players to stake Non-fungible tokens (NFTs) avatars with interest-generating aTokens and interact with the Boske metaverse. It is a unique combination of Decentralized Finance (DeFi) and NFTs.
 
@@ -51,10 +51,64 @@ The relationship between Collateral stake, Traits, Wearables, and Kinship is bes
 https://wiki.aavegotchi.com/introduction/aavegotchi-onion-diagram.png
 Aavegotchi Onion Diagram
 
-Robosepu Value
+### Robosepu Value
 
 The valuation of an Robosepu comes from both from its intrinsic value and from its rarity value.
 
-    Intrinsic value Intrinsic value is the denominated value of the Robosepu’s staked collateral. If the Robosepu is staked with 10 aDAI, then the intrinsic value would be 10 aDAI, plus whatever extra aDAI has accrued from the Lending Pool. Initially, only ERC20 tokens listed on the Aave platform (aTokens) will be available as collaterals. However, once BoskeDAO launches, the community will be able to vote on which new collaterals to allow.
+* Intrinsic value Intrinsic value is the denominated value of the Robosepu’s staked collateral. If the Robosepu is staked with 10 aDAI, then the intrinsic value would be 10 aDAI, plus whatever extra aDAI has accrued from the Lending Pool. Initially, only ERC20 tokens listed on the Aave platform (aTokens) will be available as collaterals. However, once BoskeDAO launches, the community will be able to vote on which new collaterals to allow.
 
-    Rarity value Rarity value is determined by calculating the rareness of each Robosepu’s traits and equipped wearables within the Boske universe. Unlike other NFT games, rarity is not a fixed value in Boske. It can change over time as Robosepus level up and equip different wearables. Thus, a rare Robosepu one week could become common, and vice versa, depending on the overall distribution of traits and wearables within the Boske universe. This enables a novel concept known as “rarity farming”, which is explained in this page.
+* Rarity value Rarity value is determined by calculating the rareness of each Robosepu’s traits and equipped wearables within the Boske universe. Unlike other NFT games, rarity is not a fixed value in Boske. It can change over time as Robosepus level up and equip different wearables. Thus, a rare Robosepu one week could become common, and vice versa, depending on the overall distribution of traits and wearables within the Boske universe. This enables a novel concept known as “rarity farming”, which is explained in this page.
+
+# LILA Token
+
+Price action and trading is cool, but what else can you do with Boske’s native token, LILA?
+
+The token is meant to be used as the base ecosystem currency for the purchase of various on-chain Boske assets. These include Portals, wearables, consumables and collectibles, amongst other goods. Beyond this, LILA also has several other functions, such as staking and enabling players to vote in the DAO.
+
+Load up your bags, fren – in this part of our Wiki, we’ll be taking a closer look at these shiny round purple boys.
+
+## Why LILA
+
+User incentives play a huge part in any project. In this case, LILA provides the economic incentives to encourage greater participation in the Boske ecosystem. Specifically, the token helps to align the respective goals of the BoskeDAO, LILA holders, and Robosepu holders.
+
+Players have to buy LILA and spend it in the process of summoning and training Robosepus. A portion of this is transferred directly back to the DAO to continue funding the development of the ecosystem. At the same time, part of the value is also distributed as rewards for wise governance in the DAO, and as rewards for engaging in rarity farming.
+
+For more information, make sure to check out the Tokenomics page.
+
+## Using LILA
+
+What can you do with LILA, other than buy it and wonder wen moon? Plenty, and once you learn about the various ways to use LILA, we have a feeling you might just rethink selling.
+
+These include:
+
+* Buying portals to summon Robosepus
+* Buying wearables to equip on your Robosepus
+* Buying REALM parcels (more information TBC)
+* Stake GHST, earn LEARNs, buy tickets and win raffle prizes
+
+## Buying LILA
+
+Get your wallets (preferably Metamask) ready - there are a couple of ways to buy LILA tokens:
+
+* Buying it straight from the curve on Ethereum Mainnet (though this requires KYC, which unfortunately precludes citizens of the United States and China)
+* Buying it from Decentralized Exchanges on Ethereum Mainnet such as Uniswap and Matcha
+* Buying it from Decentralized Exchanges on Polygon such as QuickSwap
+* Buying it from Centralized Exchanges such as OKex and Binance
+
+Make sure you get the correct token address as well.
+
+On Ethereum Mainnet: 0x3F382DbD960E3a9bbCeaE22651E88158d2791550
+
+On Polygon: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
+
+Please verify these links against other officially published Aavegotchi sources - it never hurts to be extra careful.
+
+## Earning LILA
+
+Not everyone is a whale, and that's fine - there's plenty in the DeFi seas to go around.
+
+There are several ways to grind it out and earn LILA. These include:
+
+* Engaging in rarity farming
+* Participate and vote in BoskeDAO
+* Playing and winning in minigames (more information TBC)

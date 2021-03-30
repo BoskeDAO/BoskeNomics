@@ -84,7 +84,7 @@ These include:
 * Buying portals to summon Robosepus
 * Buying wearables to equip on your Robosepus
 * Buying REALM parcels (more information TBC)
-* Stake GHST, earn LEARNs, buy tickets and win raffle prizes
+* Stake LILA, earn LEARNs, buy tickets and win raffle prizes
 
 ## Buying LILA
 

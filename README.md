@@ -25,7 +25,7 @@ Robosepus (or BoskeNFTs) are pixelated characters living on the Ethereum blockch
 
 To level up their Robosepus, players can participate in a variety of activities including mini-games, governance, and meetups. Robosepus can also increase their rarity level by equipping in-game wearables and leveling up.
 
-Rare Robosepus not only have higher secondary marketplace value, they also enable the Robosepu to perform better in rarity farming—a minigame that rewards the rarest Robosepu with GHST tokens.
+Rare Robosepus not only have higher secondary marketplace value, they also enable the Robosepu to perform better in rarity farming—a minigame that rewards the rarest Robosepu with LILA tokens.
 
 Boske is governed by BoskeDAO that manages all funds generated through the LILA token distribution.
 

@@ -1,5 +1,5 @@
 # Boske
-Boske Web3 Academia - CryptoEconomics of a gamified, social and open learning innitiative.
+Boske Web3 Academia - CryptoEconomics of a gamified, social and open learning initiative.
 
 Boske is *inspired by Aavegotchi* game mechanics.
 

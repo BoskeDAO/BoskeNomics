@@ -47,8 +47,7 @@ Robosepus are rare crypto-collectibles living on the Ethereum blockchain, backed
 
 The relationship between Collateral stake, Traits, Wearables, and Kinship is best represented by an Onion Diagram (see below). Each layer builds upon the previous layers, with the sum being the Robosepu itself!
 
-https://wiki.aavegotchi.com/introduction/aavegotchi-onion-diagram.png
-Aavegotchi Onion Diagram
+![Robosepu Onion Diagram](https://wiki.aavegotchi.com/introduction/aavegotchi-onion-diagram.png)
 
 ### Robosepu Value
 

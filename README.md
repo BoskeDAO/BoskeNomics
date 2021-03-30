@@ -1,29 +1,31 @@
 # BoskeNomics
-Boske Web3 Academia - CryptoEconomics of a gamified, social and open learning innitiative 
+Boske Web3 Academia - CryptoEconomics of a gamified, social and open learning innitiative.
+
+Boske is *inspired by Aavegotchi* game mechanics.
+
+We are designing open, relevant and high quality gamified learning oportunities 
+focused on **web3 technology and economics** topics.  
 
 ## Website and social media
 
-Podés aprender más acerca de nuestros valores y nuestra misión en [Boske](https://boske.org)  
+<br> Our web site: [Boske](https://boske.org)  
 <br> Join us on Discord: [#Boske](https://discord.gg/SdAtdDaSvp)
 <br> Subscribe to our public calendar [here](https://calendar.google.com/calendar/u/3?cid=Ym9za2VkYW9AZ21haWwuY29t)
-<br> github organization, classroom, lab, repos, book, page, etc: https://github.com/BoskeDAO
+<br> Github Organization, classroom, lab, repos, book, page, etc: https://github.com/BoskeDAO
 <br> Twitter: https://twitter.com/Boske67896312
 <br> Youtube: https://www.youtube.com/channel/UCnSquEkp8mBB5rSJ5Fq6h7Q
 <br> Medium: https://medium.com/boske
 <br> Linkedin: https://www.linkedin.com/company/boske3/
 <br> Meetup: https://www.meetup.com/es-ES/web3latam/
 
-## 1. Boske Bonding Curve: Get your LILAs
-Inspired by: https://wiki.aavegotchi.com/en/ghst
-Inspired by: https://wiki.aavegotchi.com/en/curve
+## Introduction
 
-## 2. Stake LILA, earn LERN
-Staking refers to the process of locking up your cryptocurrency in return for rewards. This is no different in the Boske project. The native token, LILA, can be staked in the Staking Contract to earn LERNs.
+Boske is a DeFi-enabled crypto collectibles web3 learning game developed by *Venten Labs* and *Argand Web3 Innovation for Latam* that allows players to stake Non-fungible tokens (NFTs) avatars with interest-generating aTokens and interact with the Boske metaverse. It is a unique combination of Decentralized Finance (DeFi) and NFTs.
 
-LERNs are a non-transferable balance within the Boske Staking Contract. LERNs cannot be purchased. They are meant to reward stakers for their contributions to the Boske project.
+Robosepus (or BoskeNFTs) are pixelated ghosts living on the Ethereum blockchain, backed by the ERC-721 standard. Their value is determined by rarity level, which is calculated via multiple factors, such as base traits, amount of staked collateral/aTokens, and equipped wearables.
 
-LERNs can then be converted into Raffle Tickets, which can be entered into periodic Raffles to win prizes.
+To level up their Robosepus, players can participate in a variety of activities including mini-games, governance, and meetups. Robosepus can also increase their rarity level by equipping in-game wearables and leveling up.
 
-Inspired by: https://wiki.aavegotchi.com/en/staking
+Rare Robosepus not only have higher secondary marketplace value, they also enable the Robosepu to perform better in rarity farming—a minigame that rewards the rarest Robosepu with GHST tokens.
 
-## 3. Buy raffle tickets with LERN, win a BOSKE NFT. 
+Boske is governed by BoskeDAO that manages all funds generated through the LILA token distribution.
